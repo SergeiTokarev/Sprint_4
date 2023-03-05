@@ -1,0 +1,11 @@
+.pytest_cache
+__pycaсhe__
+env
+.idea
+/c/Automatiom/YP_Automation_Python/Sprnt_4/tests/.pytest_cache
+/c/Automatiom/YP_Automation_Python/Sprnt_4/tests/__pycaсhe__
+tests/.pytest_cache
+tests/__pycaсhe__
+geckodriver.log
+pages/__pycaсhe__
+/c/Automatiom/YP_Automation_Python/Sprnt_4/pages/__pycaсhe__
